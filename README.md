@@ -1,6 +1,14 @@
 PythonClassManipulation
 =======================
 
-Manipulation of Classes in Python3
+Manipulation of Classes in Python:
 
-Testing to see how to use this thing
+This particular project was one of the biggest in our
+introductory computer science course. What we did was
+create a simplified version of the game Plants vs 
+Zombies and designed all the characters through inheritance
+and a main class.
+
+
+
+
